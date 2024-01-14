@@ -1,16 +1,45 @@
-# bit_go
+# IEEE MEGA PROJECT 2023
 
-A new Flutter project.
+## TEAM
+- **TEAM NAME:** EXPLORE
+- **TEAM MEMBERS:**
+  - AMAN KUMAR 
+  - KUNAL KUSHYAP	
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Domain
+APP DEVELOPMENT [FLUTTER FRAMEWORK]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Description
+An app necessary for every college students it contain following features:-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1: SOS Section = where user send Current location to the emergency contacts stored locally in app using sqflite,Other features like list of emergency contacts,nearest polices        station,hospital,pharma and medical shop location on single click.
+
+2: CAB Sharing feature = user can uplode there ride/journey in app and if any other user want to join them they can contact the user.
+
+3: Buy And Sell Feature = here user can uplode the price,image with other information of the product in the app in other to sell.
+
+4: RESTAURANTS Section = Show the list of all restraurants/cafa in our college with there location in phone numbers.
+ apart from there all it also contain features like Contact Faculty,erp..etc.
+
+## TECH Stack
+- **Language:** `DART`
+- **Front-end Tools:** `FLUTTER FRAMEWORK` `DART`
+- **Back-end Tools:** `FIREBASE AUTH` `FIREBASE STORE` `FIREBASE REALTIMEDATABASE` `SQFLITE` 
+ 
+
+## Progress
+Successfully implemented the idea with few struggle in learning how to send current location link in message on single click to all saved emergency contact number,
+
+## Execute Code
+**Prerequisites:**
+
+`Flutter 3.10.00>`
+
+`Requirenments.txt`
+- Clone the repo to your local directory
+- INSTALL Android Studio and add flutter plugin in it
+- INSTALL Emulator and simply run this app.
+
+
