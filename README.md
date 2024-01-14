@@ -4,8 +4,11 @@
 - **TEAM NAME:** EXPLORE
 - **TEAM MEMBERS:**
   - AMAN KUMAR 
-  - KUNAL KUSHYAP	
-
+  - KUNAL KUSHYAP
+ 
+  
+## SAMPLE
+https://github.com/AMANKUMAR187/bit_go/assets/126344755/c04e33ae-94ca-4deb-bc48-97d20ae6c6ff
 
 
 ## Domain
